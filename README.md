@@ -1,1 +1,1 @@
-# erebuswm
+# Erebus-dev
